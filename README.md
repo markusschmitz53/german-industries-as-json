@@ -3,7 +3,7 @@ A list of German industries (de+en) generated using python from [official source
 List according to classification [WZ 2008](https://de.wikipedia.org/wiki/Klassifikation_der_Wirtschaftszweige#WZ_2008).
 
 :de:  
-Eine Liste der Industrie-Bezeichnungen in Deutschland. Generiert mit einem Python Skript 
+Eine Liste der Wirtschaftszweige/Branchen in Deutschland. Generiert mit einem Python Skript 
 aus [Daten Statistischen Bundesamtes](https://www.destatis.de/DE/Methoden/Klassifikationen/Gueter-Wirtschaftsklassifikationen/klassifikation-wz-2008.html). Es handelt sich hierbei um ein privates Projekt, ohne
 Verbindung zu offiziellen Stellen. Liste entsprechend Klassifizierung [WZ 2008](https://de.wikipedia.org/wiki/Klassifikation_der_Wirtschaftszweige#WZ_2008).
 
