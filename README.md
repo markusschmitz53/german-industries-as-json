@@ -1,7 +1,7 @@
 # german-industries-as-json
 A list of German industries (de+en) generated using python from [official sources](https://www.destatis.de/DE/Methoden/Klassifikationen/Gueter-Wirtschaftsklassifikationen/klassifikation-wz-2008.html) by the Federal Office of Statistics. *This project is a private project. It's not affiliated to any government instances.*
   
-:de:
+:de:  
 Eine Liste der Industrie-Bezeichnungen in Deutschland. Generiert mit einem Python Skript 
 aus [Daten Statistischen Bundesamtes](https://www.destatis.de/DE/Methoden/Klassifikationen/Gueter-Wirtschaftsklassifikationen/klassifikation-wz-2008.html). Es handelt sich hierbei um ein privates Projekt, ohne
 Verbindung zu offiziellen Stellen.
